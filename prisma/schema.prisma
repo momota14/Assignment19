@@ -141,3 +141,4 @@ model ProductReview {
 
   @@map("products_review")
 }
+
